@@ -409,3 +409,7 @@ venv3/
 
 # OpenCover UI analysis results
 OpenCover/
+
+# My stuff
+sobol_indices_article_example.ipynb
+south-german-credit-lab9.csv
